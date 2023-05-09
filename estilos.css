@@ -1,18 +1,31 @@
 body {
-    background-color:#7062BF;
-    color:black;
-}
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(108,9,121,1) 50%, rgba(0,0,0,1) 100%);
 
+}
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: left;
+    text-align: center;
 }
-h1{
+header{
+    font-size: x-large;
+    text-align: center;
 background-color:#554A91;
 color:white;
 
 }
-img{
+#changito{
 width: 4%;
 
+}
+.boton{
+    text-align: center;
+text-decoration: none;
+color: azure;
+padding: 5px;
+display: inline-block;
+}
+img{
+    
+    width: 20%;
 }
